@@ -303,7 +303,7 @@ foreignObject {
 
     /* Messages */
         .messageContent-2t3eCI {
-            color: rgb(107, 12, 12);
+            color: var(--text-color);
         }
 
     /* Channel/User Mentions */
@@ -476,7 +476,7 @@ foreignObject {
         .channelTextArea-1FufC0 {
             margin-bottom: 0;
             z-index: 1;
-            background-color: rgb(107, 12, 12);
+            background-color: transparent;
         }
         .form-3gdLxP {
             width: calc(100vw - 312px);
